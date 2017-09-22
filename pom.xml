@@ -8,7 +8,7 @@
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 
-	<name>Struts 2 Hello World</name>
+	<name>HelloWorldStruts2</name>
 	<description>Simple Hello world example can be used in Jenkins and in Openshift examples</description>
 
     <properties>
