@@ -33,7 +33,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>Hello Struts2 World</finalName>
+		<finalName>HelloWorldStruts2</finalName>
 		<plugins>
 		</plugins>
 	</build>
